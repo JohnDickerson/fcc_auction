@@ -11,3 +11,17 @@
 *.lai
 *.la
 *.a
+
+# Linux #
+*~
+
+# LaTeX #
+*.pdf
+*.log
+*.aux
+*.dvi
+*.bbl
+*.blg
+
+# Qsub/Torque #
+*.sh.o*
